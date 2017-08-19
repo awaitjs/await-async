@@ -1,0 +1,23 @@
+{
+  "name": "await-async",
+  "version": "0.0.1",
+  "description": "waiting for async/await...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaitjs/await-async.git"
+  },
+  "keywords": [
+    "async",
+    "await"
+  ],
+  "author": "Enrico Marino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaitjs/await-async/issues"
+  },
+  "homepage": "https://github.com/awaitjs/await-async#readme"
+}
